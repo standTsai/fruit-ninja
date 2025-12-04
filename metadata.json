@@ -1,0 +1,7 @@
+{
+  "name": "Zen Fruit Ninja v1.2",
+  "description": "A 3D arcade game where you slice fruits with gestures. Features AI-powered Ninja wisdom based on your performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
